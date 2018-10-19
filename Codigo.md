@@ -78,6 +78,7 @@ int lastSend[16];// = {0, 0, 0};
 int signo;
 int aux;
 int servoMin[16] = {servoMin1, servoMin2, servoMin3, servoMin4, servoMin5, servoMin6, servoMin7, servoMin8, servoMin9, servoMin10, servoMin11, servoMin12, servoMin13, servoMin14, servoMin15, servoMin16};
+
 int servoMax[16] = {servoMax1, servoMax2, servoMax3, servoMax4, servoMax5, servoMax6, servoMax7, servoMax8, servoMax9, servoMax10, servoMax11, servoMax12, servoMax13, servoMax14, servoMax15, servoMax16};
 
 
